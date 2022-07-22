@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bundle1/Bundle1.iml" filepath="$PROJECT_DIR$/Bundle1/Bundle1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bundle2/Bundle2.iml" filepath="$PROJECT_DIR$/Bundle2/Bundle2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OsgiWithEclipse.iml" filepath="$PROJECT_DIR$/OsgiWithEclipse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Painter/Painter.iml" filepath="$PROJECT_DIR$/Painter/Painter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shell/Shell.iml" filepath="$PROJECT_DIR$/Shell/Shell.iml" />
+    </modules>
+  </component>
+</project>

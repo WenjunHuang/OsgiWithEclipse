@@ -1,0 +1,8 @@
+Manifest-Version: 2
+Bundle-ManifestVersion: 2
+Bundle-Name: Simple Paint Program
+Bundle-SymbolicName: org.foo.paint
+Bundle-Version: 2.0.0
+Bundle-Activator: org.foo.paint.Activator
+Import-Package: javax.swing, org.osgi.framework, scala
+

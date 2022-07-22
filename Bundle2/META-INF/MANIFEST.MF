@@ -1,0 +1,9 @@
+Bundle-ManifestVersion: 2
+Bundle-Name: Simple Shape Implementations
+Bundle-SymbolicName: org.foo.shape.impl
+Bundle-Version:  2.0.0
+Bundle-Activator: org.foo.shape.impl.Client
+Import-Package: javax.swing, org.foo.shape; version="2.0.0", org.osgi.framework,scala
+Export-Package: org.foo.shape.impl; version="2.0.0"
+
+

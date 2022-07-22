@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Jenkins.Application.Settings">
+    <option name="serverUrl" value="http://192.168.2.239:18888/jenkins/" />
+    <option name="useGreenColor" value="true" />
+  </component>
+  <component name="Jenkins.Settings">
+    <option name="username" value="huangwj@goldlokedu.cn" />
+  </component>
+  <component name="Osmorc">
+    <option name="bundlesOutputPath" value="$PROJECT_DIR$/out/bundles" />
+    <option name="frameworkInstanceName" value="Equinox (3.18.0.v20220516-2155)" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
